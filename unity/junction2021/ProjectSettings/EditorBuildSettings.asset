@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/PolygonStarter/Scenes/Demo.unity
+    guid: 5215016c20f88ea498985ac3e0ab4f9d
+  - enabled: 0
+    path: Assets/Scenes/Office.unity
+    guid: 2ee4f0efb9b2e9c43a5338c67feec664
+  - enabled: 1
+    path: Assets/Scenes/Classroom.unity
+    guid: be2261fd744944243a9b94a1b5b2aaa2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8c447bff50ec15349a19031da4f45958, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fa9165e5ee777974f8a0834f9f270b32, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ce357f59271579f48b6cacdb99ecf335, type: 2}
