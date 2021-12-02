@@ -2500,3 +2500,4 @@ Received Import Request.
 Start importing Assets/Scenes/Office.unity using Guid(2ee4f0efb9b2e9c43a5338c67feec664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfa7ad33425e31ad73fa1f1230e8fac') in 0.039867 seconds 
   Import took 0.054311 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
